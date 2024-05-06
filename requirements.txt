@@ -1,0 +1,5 @@
+fastapi
+pydantic
+joblib
+gensim
+uvicorn
